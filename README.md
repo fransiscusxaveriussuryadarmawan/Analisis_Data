@@ -16,11 +16,11 @@ Before you can run this project, you need to have the following installed:
 First, clone this repository to your local machine:
 
 ```bash
-cd dashboard
-streamlit run dashboard.py
+pip install -r requirements.txt
 ```
 ### Step 2: Install environment
 
 ```bash
-pip install -r requirements.txt
+cd dashboard
+streamlit run dashboard.py
 ```
