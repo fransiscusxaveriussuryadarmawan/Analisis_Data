@@ -18,7 +18,7 @@ First, clone this repository to your local machine:
 ```bash
 pip install -r requirements.txt
 ```
-### Step 2: Install environment
+### Step 2: Run Streamlit
 
 ```bash
 cd dashboard
