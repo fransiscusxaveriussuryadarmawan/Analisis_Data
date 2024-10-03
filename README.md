@@ -16,6 +16,7 @@ Before you can run this project, you need to have the following installed:
 First, clone this repository to your local machine:
 
 ```bash
+cd dashboard
 streamlit run dashboard.py
 ```
 ### Step 2: Install environment
