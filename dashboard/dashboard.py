@@ -85,8 +85,8 @@ def plot_month_line(df):
 
 
 
-day_df = pd.read_csv("day_new.csv")
-hour_df = pd.read_csv("hour_new.csv")
+day_df = pd.read_csv("dashboard/day_new.csv")
+hour_df = pd.read_csv("dashboard/hour_new.csv")
 
 day_df['dteday'] = pd.to_datetime(day_df['dteday'])
 
